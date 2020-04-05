@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/lianism/jupyter_notebook'
+let g:netrw_dirhist_2='/home/lianism/jupyter_notebook/master_thesis/gan_and_tool'
+let g:netrw_dirhist_3='/home/lianism/leetcode/LinkList/287FindtheDuplicateNumber.py'
+let g:netrw_dirhist_4='/var/www/html/trafficAnalysis/python'
+let g:netrw_dirhist_5='/etc/php/7.2/apache2/conf.d'
