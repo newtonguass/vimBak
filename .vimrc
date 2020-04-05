@@ -18,6 +18,7 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'Yggdroot/indentLine'
 Plugin 'valloric/youcompleteme'
 Plugin 'jiangmiao/auto-pairs'
+Plugin 'Chiel92/vim-autoformat'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
